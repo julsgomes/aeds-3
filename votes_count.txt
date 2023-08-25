@@ -1,0 +1,526 @@
+Alfredo Gaspar: 110
+Beto Richa: 90
+Cabo Gilberto Silva: 92
+Capit�o Alberto Neto: 96
+Carlos Veras: 103
+Caroline de Toni: 109
+Cobalchini: 100
+Coronel Meira: 96
+Delegada Katarina: 104
+Delegado �der Mauro: 86
+Delegado Ramagem: 110
+Diego Garcia: 91
+Fl�vio Nogueira: 104
+Gerlen Diniz: 115
+Gilson Marques: 115
+Helder Salom�o: 111
+Jorge Goetten: 98
+Jos� Guimar�es: 93
+Jos� Nelto: 82
+Lafayette de Andrada: 79
+Laura Carneiro: 90
+Lucas Redecker: 109
+Marangoni: 86
+Marcos Pollon: 95
+Marcos Tavares: 85
+Mauricio Marcon: 89
+Pastor Eurico: 80
+Pedro Campos: 85
+Pr. Marco Feliciano: 105
+Renilce Nicodemos: 74
+Roberto Duarte: 109
+Robinson Faria: 105
+Ros�ngela Moro: 106
+Ros�ngela Reis: 101
+Rui Falc�o: 107
+S�mia Bomfim: 95
+Tarc�sio Motta: 115
+Waldemar Oliveira: 101
+Yandra Moura: 85
+Yury do Pared�o: 73
+Z� Haroldo Cathedral: 108
+Afonso Motta: 95
+Alencar Santana: 100
+Andr� Janones: 76
+Bacelar: 109
+Chris Tonietto: 43
+Coronel Fernanda: 96
+Covatti Filho: 91
+Delegado Marcelo Freitas: 105
+Deltan Dallagnol: 80
+Diego Coronel: 103
+Eduardo Bismarck: 70
+Felipe Francischini: 95
+Gerv�sio Maia: 101
+Jo�o Le�o: 66
+Juarez Costa: 60
+Julia Zanatta: 111
+Maria Arraes: 104
+Murilo Galdino: 93
+Nicoletti: 96
+Rubens Pereira J�nior: 101
+Silvio Costa Filho: 78
+Tabata Amaral: 84
+Arthur Oliveira Maia: 77
+�tila Lira: 107
+Capit�o Augusto: 93
+Fabio Garcia: 81
+Fausto Santos Jr.: 87
+Lindbergh Farias: 99
+Luiz Couto: 99
+Marcelo Crivella: 83
+Carlos Jordy: 97
+Duarte Jr.: 90
+Fausto Pinato: 79
+Rubens Otoni: 88
+Mendon�a Filho: 98
+Miguel �ngelo: 78
+Abilio Brunini: 91
+Adail Filho: 84
+Adilson Barroso: 82
+A�cio Neves: 63
+Afonso Hamm: 68
+Aguinaldo Ribeiro: 58
+Airton Faleiro: 77
+Alberto Fraga: 86
+Alex Santana: 64
+Alexandre Guimar�es: 70
+Alexandre Leite: 59
+Alfredinho: 84
+Aliel Machado: 72
+Aluisio Mendes: 85
+Am�lia Barros: 90
+Amanda Gentil: 66
+Amaro Neto: 86
+Amom Mandel: 75
+Ana Paula Le�o: 92
+Ana Paula Lima: 76
+Ana Pimentel: 84
+Andr� Figueiredo: 88
+Ant�nia L�cia: 47
+Antonio Andrade: 73
+Antonio Carlos Rodrigues: 86
+Ant�nio Doido: 63
+Any Ortiz: 66
+Arlindo Chinaglia: 88
+Arnaldo Jardim: 72
+�tila Lins: 61
+Augusto Coutinho: 89
+Augusto Puppio: 80
+Aureo Ribeiro: 72
+Baleia Rossi: 64
+Bandeira de Mello: 88
+Bebeto: 84
+Benedita da Silva: 89
+Benes Leoc�dio: 86
+Beto Pereira: 65
+Bia Kicis: 83
+Bibo Nunes: 86
+Bohn Gass: 82
+Bruno Farias: 79
+Bruno Ganem: 88
+Camila Jara: 82
+Capit�o Alden: 81
+Carlos Gomes: 76
+Carlos Henrique Gaguim: 83
+Carlos Sampaio: 89
+Carlos Zarattini: 84
+Carol Dartora: 81
+Castro Neto: 83
+C�lio Silveira: 75
+C�lio Studart: 67
+Celso Russomanno: 60
+Cezinha de Madureira: 78
+Charles Fernandes: 85
+Chico Alencar: 89
+Clarissa T�rcio: 85
+Claudio Cajado: 76
+Cleber Verde: 81
+Coronel Assis: 86
+Coronel Chris�stomo: 85
+Coronel Ulysses: 78
+Cristiane Lopes: 88
+Da Vitoria: 86
+Dagoberto Nogueira: 85
+Daiana Santos: 54
+Dami�o Feliciano: 73
+Dani Cunha: 81
+Daniel Agrobom: 82
+Daniel Almeida: 75
+Daniel Barbosa: 61
+Daniel Freitas: 80
+Daniel Soranz: 29
+Daniel Trzeciak: 82
+Daniela Reinehr: 83
+Danilo Forte: 64
+David Soares: 60
+Defensor St�lio Dener: 83
+Delegada Adriana Accorsi: 85
+Delegado Caveira: 84
+Delegado Fabio Costa: 90
+Delegado Matheus Laiola: 88
+Delegado Palumbo: 91
+Delegado Paulo Bilynskyj: 85
+Denise Pess�a: 81
+Dilvanda Faro: 86
+Dimas Fabiano: 82
+Dimas Gadelha: 86
+Domingos S�vio: 77
+Dorinaldo Malafaia: 83
+Dr. Fernando M�ximo: 85
+Dr. Francisco: 87
+Dr. Frederico: 73
+Dr. Jaziel: 63
+Dr. Luiz Ovando: 88
+Dr. Victor Linhalis: 91
+Dr. Zacharias Calil: 81
+Dra. Alessandra Haber: 77
+Duda Ramos: 68
+Duda Salabert: 56
+Eduardo Bolsonaro: 75
+Eduardo da Fonte: 72
+Elcione Barbalho: 74
+Elmar Nascimento: 47
+Emanuel Pinheiro Neto: 83
+Emidinho Madeira: 63
+Eriberto Medeiros: 80
+Erika Hilton: 65
+Erika Kokay: 90
+Eros Biondini: 69
+Evair Vieira de Melo: 86
+F�bio Macedo: 65
+Fabio Reis: 73
+Fabio Schiochet: 76
+F�bio Teruel: 73
+Felipe Becari: 71
+Felipe Carreras: 78
+Fernanda Melchionna: 78
+Fernanda Pessoa: 85
+Fernando Coelho Filho: 73
+Fernando Rodolfo: 71
+Filipe Barros: 63
+Filipe Martins: 76
+Florentino Neto: 85
+Franciane Bayer: 65
+Fred Linhares: 83
+Gabriel Nunes: 81
+General Gir�o: 84
+General Pazuello: 82
+Geovania de S�: 83
+Geraldo Mendes: 72
+Geraldo Resende: 75
+Gilberto Abramo: 88
+Gilvan da Federal: 85
+Giovani Cherini: 77
+Glauber Braga: 70
+Glaustin da Fokus: 60
+Greyce Elias: 79
+Guilherme Boulos: 89
+Guilherme Uchoa: 87
+Gutemberg Reis: 82
+Heitor Schuch: 61
+Helena Lima: 71
+Helio Lopes: 50
+Henderson Pinto: 81
+Herc�lio Coelho Diniz: 82
+Icaro de Valmir: 81
+Idilvan Alencar: 88
+Igor Timo: 80
+Ismael: 78
+Ismael Alexandrino: 84
+Ivan Valente: 84
+Ivoneide Caetano: 73
+Iza Arruda: 80
+Jack Rocha: 87
+Jandira Feghali: 79
+Jeferson Rodrigues: 76
+Jefferson Campos: 76
+Jilmar Tatto: 79
+Jo�o Daniel: 80
+Jo�o Maia: 76
+Joaquim Passarinho: 87
+Jonas Donizette: 82
+Jorge Braz: 81
+Jorge Solla: 82
+Jos� Airton F�lix Cirilo: 63
+Jos� Medeiros: 83
+Jos� Priante: 66
+Jos� Rocha: 73
+Joseildo Ramos: 80
+Josenildo: 90
+Josias Gomes: 84
+Josivaldo JP: 70
+J�lio Cesar: 71
+Julio Lopes: 69
+Junio Amaral: 74
+J�nior Ferrari: 69
+Junior Louren�o: 52
+Keniston Braga: 74
+Kiko Celeguim: 79
+Kim Kataguiri: 78
+L�zaro Botelho: 69
+Leo Prates: 89
+Leonardo Monteiro: 78
+L�dice da Mata: 81
+Lincoln Portela: 73
+Lucas Ramos: 84
+Luciano Amaral: 88
+Luciano Azevedo: 77
+Luciano Bivar: 42
+Luciano Ducci: 76
+Luciano Vieira: 83
+Luis Carlos Gomes: 86
+Luisa Canziani: 49
+Luiz Ant�nio Corr�a: 81
+Luiz Carlos Busato: 76
+Luiz Carlos Motta: 78
+Luiz Fernando Faria: 74
+Luiz Lima: 84
+Luiz Nishimori: 78
+Luiz Philippe de Orleans e Bragan�a: 75
+Luizianne Lins: 81
+Marcel van Hattem: 91
+Marcelo �lvaro Ant�nio: 60
+Marcelo Lima: 78
+Marcelo Queiroz: 87
+M�rcio Biolchi: 74
+M�rcio Jerry: 86
+M�rcio Marinho: 85
+Marco Bertaiolli: 75
+Marco Brasil: 84
+Marcon: 81
+Marcos Soares: 65
+Maria do Ros�rio: 70
+Maria Rosas: 91
+M�rio Heringer: 70
+M�rio Negromonte Jr.: 71
+Marreca Filho: 60
+Marussa Boldrin: 77
+Marx Beltr�o: 71
+Matheus Noronha: 41
+Maur�cio Carvalho: 71
+Mauricio do V�lei: 64
+Mauricio Neves: 64
+Mauro Benevides Filho: 91
+Max Lemos: 81
+Meire Serafim: 81
+Merlong Solano: 92
+Mersinho Lucena: 77
+Messias Donato: 90
+Miguel Lombardi: 79
+Milton Vieira: 41
+Moses Rodrigues: 79
+Nat�lia Bonavides: 81
+Nely Aquino: 85
+Nikolas Ferreira: 70
+Nilto Tatto: 80
+Odair Cunha: 81
+Olival Marques: 69
+Orlando Silva: 79
+Osmar Terra: 73
+Otto Alencar Filho: 81
+Padre Jo�o: 89
+Pastor Diniz: 79
+Pastor Gil: 67
+Pastor Henrique Vieira: 93
+Pastor Sargento Isid�rio: 90
+Paul�o: 82
+Paulinho Freire: 84
+Paulo Alexandre Barbosa: 66
+Paulo Azi: 62
+Paulo Freire Costa: 80
+Paulo Guedes: 81
+Paulo Litro: 70
+Paulo Magalh�es: 87
+Pedro Aihara: 80
+Pedro Lucas Fernandes: 76
+Pedro Paulo: 64
+Pedro Uczai: 82
+Pedro Westphalen: 83
+Pezenti: 74
+Pinheirinho: 66
+Pompeo de Mattos: 78
+Prof. Paulo Fernando: 75
+Prof. Reginaldo Veras: 81
+Professora Luciene Cavalcante: 92
+Rafael Brito: 77
+Rafael Prudente: 80
+Rafael Simoes: 89
+Raimundo Costa: 68
+Raimundo Santos: 83
+Reginaldo Lopes: 66
+Reginete Bispo: 71
+Reimont: 87
+Reinhold Stephanes: 68
+Renata Abreu: 76
+Renildo Calheiros: 85
+Ricardo Abr�o: 69
+Ricardo Ayres: 88
+Ricardo Guidi: 78
+Ricardo Maia: 74
+Roberta Roma: 75
+Roberto Monteiro: 85
+Rodolfo Nogueira: 75
+Rodrigo de Castro: 80
+Rodrigo Gambale: 82
+Rog�ria Santos: 83
+Rog�rio Correia: 85
+Romero Rodrigues: 86
+Rosana Valle: 73
+Roseana Sarney: 54
+Ruy Carneiro: 79
+Sanderson: 82
+Sargento Fahur: 91
+Sargento Gon�alves: 83
+Sargento Portugal: 85
+Saullo Vianna: 76
+Sergio Souza: 85
+Silvia Cristina: 73
+Silvia Wai�pi: 82
+Silvye Alves: 89
+Simone Marquetto: 81
+Socorro Neri: 82
+Sonize Barbosa: 41
+Tal�ria Petrone: 60
+Thiago de Joaldo: 88
+Thiago Flores: 87
+Ti�o Medeiros: 86
+Tiririca: 64
+T�lio Gad�lha: 75
+Valmir Assun��o: 79
+Vander Loubet: 83
+Vermelho: 67
+Vicentinho: 81
+Vicentinho J�nior: 70
+Vitor Lippi: 78
+Waldenor Pereira: 52
+Washington Quaqu�: 61
+Weliton Prado: 81
+Wellington Roberto: 65
+Z� Neto: 81
+Z� Silva: 78
+Z� Trov�o: 85
+Z� Vitor: 51
+Zeca Dirceu: 69
+Zezinho Barbary: 75
+Zucco: 94
+Adriana Ventura: 89
+Alexandre Lindenmeyer: 80
+Alice Portugal: 86
+Andreia Siqueira: 66
+Antonio Brito: 51
+Celso Sabino: 52
+Coronel Telhada: 69
+Dal Barreto: 61
+Dayany Bittencourt: 85
+Detinha: 58
+Dr Benjamim: 77
+Eli Borges: 67
+Euclydes Pettersen: 41
+F�lix Mendon�a J�nior: 83
+Fernando Mineiro: 80
+Fernando Monteiro: 79
+Fl�via Morais: 78
+Fred Costa: 56
+Gabriel Mota: 74
+Giacobo: 74
+Gilvan Maximo: 81
+Gleisi Hoffmann: 82
+Gustinho Ribeiro: 74
+Jo�o Carlos Bacelar: 52
+Josimar Maranh�ozinho: 57
+Juliana Cardoso: 74
+Julio Arcoverde: 70
+Juninho do Pneu: 74
+Le�nidas Cristino: 87
+Leur Lomanto J�nior: 68
+Luciano Alves: 64
+Luis Tib�: 41
+Lula da Fonte: 79
+Magda Mofatto: 87
+Marcio Alvino: 86
+Marcos Aur�lio Sampaio: 77
+Misael Varella: 63
+Murillo Gouvea: 67
+Neto Carletto: 82
+Newton Cardoso Jr: 61
+Pedro Lupion: 84
+Professor Alcides: 74
+Professora Goreth: 79
+Ricardo Salles: 69
+Ricardo Silva: 59
+Sidney Leite: 64
+Tadeu Veneri: 80
+Vinicius Carvalho: 72
+Vinicius Gurgel: 56
+Welter: 79
+Wilson Santiago: 75
+Ac�cio Favacho: 66
+Alberto Mour�o: 73
+Albuquerque: 79
+Clodoaldo Magalh�es: 72
+Domingos Neto: 60
+Isnaldo Bulh�es Jr.: 46
+Lebr�o: 55
+L�da Borges: 86
+Otoni de Paula: 63
+Rodrigo Estacho: 82
+Samuel Viana: 79
+S�stenes Cavalcante: 57
+Alex Manente: 52
+Paulo Abi-Ackel: 54
+Stefano Aguiar: 54
+Luiz Gast�o: 71
+Patrus Ananias: 63
+Soraya Santos: 70
+Delegada Ione: 81
+Delegado da Cunha: 70
+Marcelo Moraes: 71
+Adriano do Baldy: 80
+AJ Albuquerque: 41
+Alceu Moreira: 71
+Altineu C�rtes: 28
+Andr� Fernandes: 74
+Andr� Ferreira: 59
+Caio Vianna: 53
+Carla Zambelli: 47
+Carlos Chiodini: 63
+C�lia Xakriab�: 79
+Chiquinho Braz�o: 82
+Dandara: 74
+Diego Andrade: 55
+Dilceu Sperafico: 72
+Eduardo Velloso: 72
+Enfermeira Ana Paula: 36
+Flavinha: 43
+Gilson Daniel: 82
+Gustavo Gayer: 69
+Hugo Leal: 29
+Hugo Motta: 58
+Jadyel Alencar: 54
+J�nior Mano: 54
+Lucio Mosquini: 50
+Luiz Carlos Hauly: 26
+Luiza Erundina: 26
+M�rcio Honaiser: 64
+Mario Frias: 72
+Padovani: 67
+Paulo Foletto: 64
+Priscila Costa: 21
+Rodrigo Valadares: 67
+Silas C�mara: 61
+Toninho Wandscheer: 60
+Adolfo Viana: 54
+Andr� Fufuca: 48
+Ely Santos: 23
+Eun�cio Oliveira: 47
+Gilberto Nascimento: 24
+Marcos Pereira: 53
+Arthur Lira: 16
+Sandro Alex: 6
+Reinhold Stephanes Junior: 1
+Julio Cesar Ribeiro: 10
+Beto Preto: 6
+Jones Moura: 16
+Renan Ferreirinha: 5
+Marcelo Calero: 2

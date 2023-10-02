@@ -41,7 +41,9 @@ graph, votes_count = read_from_api()
 
 ### Leitura do arquivo Excel
 
+```python
 graph, votes_count = read_votes_file('seuarquivo.xlsx')
+```
 
 ## Estrutura do Código
 
